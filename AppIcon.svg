@@ -1,0 +1,43 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="AppIcon/1024">
+<path id="Vector" d="M739 100H285C182.827 100 100 182.827 100 285V739C100 841.173 182.827 924 285 924H739C841.173 924 924 841.173 924 739V285C924 182.827 841.173 100 739 100Z" fill="url(#paint0_linear_0_4)"/>
+<path id="Vector_2" d="M739 100H285C182.827 100 100 182.827 100 285V739C100 841.173 182.827 924 285 924H739C841.173 924 924 841.173 924 739V285C924 182.827 841.173 100 739 100Z" fill="url(#paint1_radial_0_4)"/>
+<g id="Group" filter="url(#filter0_d_0_4)">
+<path id="Vector_3" d="M240 597H378.6L413.1 548L480.2 696.5L538.2 360.8L606.6 836.7L688.7 569.3L719.9 597H805V533H744.1L651.3 450.7L613.4 683.3L541.8 207.2L467.8 543.5L430.9 412L345.4 533H240V597Z" fill="#04102A"/>
+</g>
+<path id="Vector_4" d="M230 585H368.6L335.4 521H230V585Z" fill="#DFF3FF"/>
+<path id="Vector_5" d="M368.6 585L403.1 536L420.9 400L335.4 521L368.6 585Z" fill="#F2FAFF"/>
+<path id="Vector_6" d="M403.1 536L470.2 684.5L457.8 531.5L420.9 400L403.1 536Z" fill="#358BEE"/>
+<path id="Vector_7" d="M470.2 684.5L528.2 348.8L531.8 195.2L457.8 531.5L470.2 684.5Z" fill="#C6E9FF"/>
+<path id="Vector_8" d="M528.2 348.8L596.6 824.7L603.4 671.3L531.8 195.2L528.2 348.8Z" fill="#277AE1"/>
+<path id="Vector_9" d="M596.6 824.7L678.7 557.3L641.3 438.7L603.4 671.3L596.6 824.7Z" fill="#CCEBFF"/>
+<path id="Vector_10" d="M678.7 557.3L709.9 585L734.1 521L641.3 438.7L678.7 557.3Z" fill="#75C5FD"/>
+<path id="Vector_11" d="M709.9 585H795V521H734.1L709.9 585Z" fill="#DFF3FF"/>
+<path id="Vector_12" d="M368.6 585L335.4 521" stroke="white" stroke-opacity="0.26" stroke-width="2.5"/>
+<path id="Vector_13" d="M403.1 536L420.9 400" stroke="white" stroke-opacity="0.26" stroke-width="2.5"/>
+<path id="Vector_14" d="M470.2 684.5L457.8 531.5" stroke="white" stroke-opacity="0.26" stroke-width="2.5"/>
+<path id="Vector_15" d="M528.2 348.8L531.8 195.2" stroke="white" stroke-opacity="0.26" stroke-width="2.5"/>
+<path id="Vector_16" d="M596.6 824.7L603.4 671.3" stroke="white" stroke-opacity="0.26" stroke-width="2.5"/>
+<path id="Vector_17" d="M678.7 557.3L641.3 438.7" stroke="white" stroke-opacity="0.26" stroke-width="2.5"/>
+<path id="Vector_18" d="M709.9 585L734.1 521" stroke="white" stroke-opacity="0.26" stroke-width="2.5"/>
+</g>
+<defs>
+<filter id="filter0_d_0_4" x="204" y="189.2" width="637" height="701.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="18"/>
+<feGaussianBlur stdDeviation="18"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.02 0 0 0 0 0.08 0 0 0 0.55 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_4"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_4" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_4" x1="100" y1="100" x2="100" y2="924" gradientUnits="userSpaceOnUse">
+<stop stop-color="#172E52"/>
+<stop offset="1" stop-color="#050C1C"/>
+</linearGradient>
+<radialGradient id="paint1_radial_0_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(528.48 429.6) scale(362.56)">
+<stop stop-color="#57C9FF" stop-opacity="0.34"/>
+<stop offset="1" stop-color="#57C9FF" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
